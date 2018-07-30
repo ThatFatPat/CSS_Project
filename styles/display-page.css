@@ -1,0 +1,43 @@
+main{
+		width: 800px;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 100px;
+		border: 1px solid green;
+}
+.box{
+	border: 1px solid black;
+	display: inline-block;
+	color: red;
+	height: 100%;
+}
+.container{
+ font-size: 0px;
+}
+.upper{
+	height: 200px;
+}
+.lower{
+	height: 300px;
+}
+.up{
+	width: 50%;
+}
+.low{
+	width: 33.33%;
+}
+.orange{
+	background-color: #EC9432;
+}
+.green{
+	background-color: #32670F;
+}
+.blue{
+	background-color: #0D31F5;
+}
+.black{
+	background-color: #000000;
+}
+.grey{
+	background-color: #6D6D6D;
+}
